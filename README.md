@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan Acosta!
 
-<!--
-**Juaanx7/Juaanx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm a developer passionate about technology, programming, and creating solutions that make a difference. Currently, I focus on **full stack development**, working on projects that combine design and innovation.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm currently learning **Node.js** and strengthening my **backend** skills.
+- 🎓 Web Development Full Stack student at Coderhouse.
+- ⚡ Always improving my skills in **React**, **SCSS**, and project management.
+- 🌍 Based in Argentina.
+
+## 🛠️ Technologies & Tools
+
+- **Programming Languages**: Java, Python (beginner), JavaScript
+- **Frontend**: React, HTML, CSS, SCSS, JavaScript
+- **Backend**: Node.js, Express
+- **Databases**: Firestore, MongoDB (learning)
+- **Others**: Git, Chart.js, Firebase
+
+## ✨ Highlighted Projects
+
+Here are some of the projects I've worked on:
+- **[Istorecba](https://github.com/your-username/istorecba)**: An e-commerce focused on Apple products.  
+- **Loan Calculator**: Interactive app to simulate loans and generate visual reports with Chart.js.  
+- **Fibracoop Manager**: A tool for managing internet service customers.  
+
+
+## 📬 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/juan-acosta-qui%C3%B1ones/)
+- 📷 [Instagram](https://www.instagram.com/juaanacosta/)
+- ✉️ [juaanx7@gmail.com](mailto:juaanx7@gmail.com)
+
