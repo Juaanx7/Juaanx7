@@ -1,33 +1,31 @@
-# 👋 Hi, I'm Juan Acosta!
+# 👋 Hi, I'm Juan Acosta
 
-Welcome to my profile! I'm a developer passionate about technology, programming, and creating solutions that make a difference. Currently, I focus on **full stack development**, working on projects that combine design and innovation.
+Welcome to my GitHub! I'm a full stack web developer based in Argentina, passionate about building scalable, user-centered solutions with clean and maintainable code. I enjoy turning ideas into real-world applications and constantly improving my skills.
 
 ## 🚀 About Me
 
-- 💻 I'm currently learning **Node.js** and strengthening my **backend** skills.
-- 🎓 Web Development Full Stack student at Coderhouse.
-- ⚡ Always improving my skills in **React**, **SCSS**, and project management.
-- 🌍 Based in Argentina.
+- ✅ Graduate of the Full Stack Web Development program at Coderhouse.
+- 🎓 Software Development Technician (Instituto Dr. Bernardo Houssay).
+- 🐍 Currently studying Python to expand my backend knowledge.
+- ⚙️ Focused on full stack development using JavaScript technologies and modern frameworks.
+- 🌍 Passionate about tech, photography, and continuous learning.
 
-## 🛠️ Technologies & Tools
+## 🛠 Tech Stack
 
-- **Programming Languages**: Java, Python (beginner), JavaScript
-- **Frontend**: React, HTML, CSS, SCSS, JavaScript
-- **Backend**: Node.js, Express
-- **Databases**: Firestore, MongoDB (learning)
-- **Others**: Git, Chart.js, Firebase
+**Languages:** JavaScript, Java, Python (learning)  
+**Frontend:** React, HTML, CSS, SCSS  
+**Backend:** Node.js, Express  
+**Databases:** Firebase (Firestore), MongoDB  
+**Tools:** Git & GitHub, Chart.js, Toastify, Figma, Vite
 
-## ✨ Highlighted Projects
+## ✨ Featured Projects
 
-Here are some of the projects I've worked on:
-- **[Istorecba](https://github.com/your-username/istorecba)**: An e-commerce focused on Apple products.  
-- **Loan Calculator**: Interactive app to simulate loans and generate visual reports with Chart.js.  
-- **Fibracoop Manager**: A tool for managing internet service customers.  
-
+- **Istorecba** · E-commerce site for Apple products, built with React, Firebase & SCSS  
+- **Fibracoop Manager** · Internal tool to manage fiber optic internet clients and daily tasks for a local ISP  
+- **Cuántica** · Landing page for a local craft beer and growshop brand, focused on design and responsive experience
 
 ## 📬 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/juan-acosta-qui%C3%B1ones/)
-- 📷 [Instagram](https://www.instagram.com/juaanacosta/)
-- ✉️ [juaanx7@gmail.com](mailto:juaanx7@gmail.com)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-acosta-quiñones/)
+- 📸 [Instagram](https://www.instagram.com/juaanxx17/)
+- 📧 juaanx7@gmail.com
